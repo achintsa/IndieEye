@@ -1,6 +1,6 @@
-#"Monitoring of Entry to Public Monuments" built at President of India's Estate at Hackathon for Social Innovation
+#Monitoring of Entry to Public Monuments 
 
-A Project created at Rastrapathi bhavan festival of Innovations 2016.
+(The project was created at Rastrapathi Bhavan, President of India's Estate at Hackathon for Social Innovation under Festival of Innovations 2016)
 
 Code for India "Hackathon for Social Innovation" was organized by President of India's Secretariat and about 100 individuals were invited to come together and develop digital solutions for India's social problems
 
