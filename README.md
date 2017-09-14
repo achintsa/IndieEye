@@ -1,5 +1,4 @@
-# IndieEye
-Monitoring of Public Monuments
+#"Monitoring of Entry to Public Monuments" built at President of India's Estate at Hackathon for Social Innovation
 
 A Project created at Rastrapathi bhavan festival of Innovations 2016.
 
